@@ -10180,7 +10180,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #3291FC !important;
 }
 
 a.text-primary:hover,
@@ -10264,7 +10264,7 @@ a.text-dark:focus {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 1) !important;
 }
 
 .text-hide {
@@ -10507,7 +10507,7 @@ header.masthead {
   background-size: cover;
 }
 header.masthead h1 {
-  font-size: 2.25rem;
+  font-size: 5rem;
 }
 @media (min-width: 992px) {
   header.masthead {
@@ -10517,10 +10517,10 @@ header.masthead h1 {
     padding-bottom: 0;
   }
   header.masthead p {
-    font-size: 1.15rem;
+    font-size: 2.5rem;
   }
   header.masthead h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
 }
 @media (min-width: 1200px) {
@@ -10613,4 +10613,5 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+  font-size: 2.5rem;
 }
